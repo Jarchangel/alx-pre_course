@@ -1,2 +1,1 @@
-my first readme
-Medical laboratory scientist, passionate about molecular genetics and bioinformatics!
+Medical laboratory scientist,lover of medicine and science, passionate about molecular genetics and bioinformatics! 
